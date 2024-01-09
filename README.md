@@ -22,6 +22,6 @@
   ##
 <div align="center">
   <a href="https://github.com/NaniasNic">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NaniasNic&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaniasNic&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NicNias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicNias&layout=compact&langs_count=7&theme=dark"/>
 </div>
