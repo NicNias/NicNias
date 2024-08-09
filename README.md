@@ -10,7 +10,7 @@
 
 **:mag_right:Studying:** Java | Flutter
 
-**:office: 2023 Plans:** Acquiring more technical knowledge and enhancing my already acquired skills.
+**:office: 2024 Plans:** Acquiring more technical knowledge and enhancing my already acquired skills.
   
   #
   
