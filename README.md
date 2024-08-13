@@ -2,11 +2,11 @@
 
 # I am a Software Engineer:
 
-**:pushpin:Front-end:** JavaScript | TypeScript | React | NextJS | Laravel
+**:pushpin:Front-end:** JavaScript | TypeScript | React | Next Js | Laravel
 
 **:pushpin:Mobile:** React Native
 
-**:pushpin:Back-end:** Node | PHP | Laravel
+**:pushpin:Back-end:** Node Js | PHP | Laravel
 
 **:mag_right:Studying:** Java | Flutter
 
