@@ -1,6 +1,6 @@
 ## Hello world :wave:, call me Ananias Nicolau.
 
-# I am a Software Developer:
+# I am a Software Engineer:
 
 **:pushpin:Front-end:** JavaScript | TypeScript | React | NextJS | Laravel
 
