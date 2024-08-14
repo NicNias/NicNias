@@ -6,7 +6,7 @@
 
 **:pushpin:Mobile:** React Native
 
-**:pushpin:Back-end:** Node Js | PHP | Laravel
+**:pushpin:Back-end:** Node Js | Nest Js | PHP | Laravel
 
 **:mag_right:Studying:** Java | Flutter
 
