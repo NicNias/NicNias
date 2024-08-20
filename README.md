@@ -2,7 +2,7 @@
 
 # I am a Software Engineer:
 
-**:pushpin:Front-end:** JavaScript | TypeScript | React | Next Js
+**:pushpin:Front-end:** JavaScript | TypeScript | React Js | Angular Js | Vue Js | Next Js
 
 **:pushpin:Mobile:** React Native
 
