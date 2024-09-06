@@ -9,8 +9,6 @@
 **:pushpin:Back-end:** Node Js | Nest Js | PHP | Laravel
 
 **:mag_right:Studying:** Java | Flutter
-
-**:office: 2024 Plans:** Acquiring more technical knowledge and enhancing my already acquired skills.
   
   #
   
