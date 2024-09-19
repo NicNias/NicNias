@@ -1,8 +1,6 @@
 ## Hello world :wave:, I'm Ananias Nicolau:
 I’m a **Software Engineer**, I’m always eager to learn and grow in my craft.
 
-# Techs:
-
 **:pushpin:Front-end:** JavaScript | TypeScript | React Js | Angular Js | Vue Js | Next Js
 
 **:pushpin:Mobile:** React Native
