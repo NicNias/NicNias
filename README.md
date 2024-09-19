@@ -21,7 +21,7 @@ I’m a **Software Engineer**, I’m always eager to learn and grow in my craft.
 </div>
   
   ##
-<div align="center">
+<div>
   <a href="https://github.com/NaniasNic">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NicNias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicNias&layout=compact&langs_count=7&theme=dark"/>
