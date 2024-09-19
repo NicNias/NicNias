@@ -1,5 +1,5 @@
 ## Hello world :wave:, I'm Ananias Nicolau:
-I’m a Software Engineer, I’m always eager to learn and grow in my craft.
+I’m a **Software Engineer**, I’m always eager to learn and grow in my craft.
 
 # Skills:
 
