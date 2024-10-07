@@ -10,7 +10,7 @@ I’m a **Software Engineer**, I’m always eager to learn and grow in my craft.
 
 **:pushpin:Back-end:** Node Js | Nest Js | PHP | Laravel
 
-**:mag_right:Studying:** Java | SpringBoot | Flutter
+**:mag_right:Studying:** Java | Spring Boot | Flutter
   
   
   ## Connect with me: 
