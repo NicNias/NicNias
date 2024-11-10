@@ -8,11 +8,11 @@ I’m a **FullStack and Mobile Software Engineer**, I’m always eager to learn 
 
 **:pushpin:Mobile:** React Native
 
-**:pushpin:Back-end:** Node Js | Nest Js | PHP | Laravel
+**:pushpin:Back-end:** Node Js | Nest Js | PHP | Laravel | Java | Spring Boot
 
 **:hammer_and_wrench:Tools:** Docker
 
-**:mag_right:Studying:** Java | Spring Boot | Flutter
+**:mag_right:Studying:** Flutter
   
   
   ## Connect with me: 
