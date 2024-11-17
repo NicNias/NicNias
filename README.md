@@ -12,7 +12,7 @@ I’m a **FullStack and Mobile Software Engineer**, I’m always eager to learn 
 
 **:hammer_and_wrench:Tools:** Docker
 
-**:mag_right:Studying:** Java | Spring Boot | Flutter
+**:mag_right:Studying:** Java | Spring Boot | Flutter | Sonar
   
   
   ## Connect with me: 
