@@ -10,13 +10,14 @@ I’m a **FullStack and Mobile Software Engineer**, I’m always eager to learn 
 
 **:pushpin:Back-end:** Node Js | Nest Js | PHP | Laravel
 
+**:test_tube:Tests:** Jest
+
 **:hammer_and_wrench:Tools:** Docker
 
 **:books:Libs:** 
 - BootStrap | Styled-components | Tailwind | Framer-motion | Native-base | NativeWind
 - Express | Fastify | Eloquent
 - Sequelize | Mongoose | Prisma | TypeORM
-- Jest
 - Swagger
 
 **:mag_right:Studying:** Java | Spring Boot | Flutter | Sonar
