@@ -6,7 +6,7 @@ I’m a **FullStack and Mobile Software Engineer**, I’m always eager to learn 
 
 **:pushpin:Front-end:** JavaScript | TypeScript | React Js | Angular Js | Vue Js | Next Js
 
-**:pushpin:Mobile:** React Native
+**:pushpin:Mobile:** React Native | Expo
 
 **:pushpin:Back-end:** Node Js | Nest Js | PHP | Laravel | Java | Spring Boot
 
@@ -20,7 +20,7 @@ I’m a **FullStack and Mobile Software Engineer**, I’m always eager to learn 
 - Sequelize | Mongoose | Prisma | TypeORM
 - Swagger
 
-**:mag_right:Studying:** Flutter | Sonar
+**:mag_right:Studying:** Flutter | Sonar | Kotlin
   
   
   ## Connect with me: 
