@@ -12,7 +12,7 @@ I’m a **FullStack and Mobile Software Engineer**, I’m always eager to learn 
 
 **:test_tube:Tests:** Jest
 
-**:hammer_and_wrench:Tools:** Docker
+**:hammer_and_wrench:Tools:** Docker | Figma | Photoshop
 
 **:books:Libs:** 
 - BootStrap | Styled-components | Tailwind | Framer-motion | Native-base | NativeWind
