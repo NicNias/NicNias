@@ -19,7 +19,7 @@ I’m a **FullStack and Mobile Software Engineer**, I’m always eager to learn 
 - Express | Fastify | Eloquent
 - Sequelize | Mongoose | Prisma | TypeORM
 - Swagger
-- Spring Security
+- Lombok | Spring Security
 
 **:mag_right:Studying:** Flutter | Sonar | Kotlin
   
