@@ -16,8 +16,8 @@ I’m a **FullStack and Mobile Software Engineer**, I’m always eager to learn 
 
 **:books:Libs:** 
 - BootStrap | Styled-components | Tailwind | Framer-motion | Native-base | NativeWind
-- Express | Fastify | Eloquent
-- Sequelize | Mongoose | Prisma | TypeORM
+- Express | Fastify
+- Sequelize | Mongoose | Prisma | TypeORM | Eloquent
 - Swagger
 - Lombok | Spring Security
 
