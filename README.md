@@ -14,6 +14,8 @@ I’m a **FullStack and Mobile Software Engineer**, I’m always eager to learn 
 
 **:hammer_and_wrench:Tools:** Docker
 
+**:paintbrush:UX/UI:** Figma 
+
 **:books:Libs:** 
 - BootStrap | Styled-components | Tailwind | Framer-motion | Native-base | NativeWind
 - Express | Fastify
