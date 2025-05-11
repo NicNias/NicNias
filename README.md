@@ -4,11 +4,11 @@ I’m a **FullStack and Mobile Software Engineer**, I’m always eager to learn 
 
 ## Techs:
 
-**:pushpin:Front-end:** JavaScript | TypeScript | React Js | Angular Js | Vue Js | Next Js
+**:pushpin:Front-end:** JavaScript | TypeScript | React Js | Angular Js | Next Js
 
 **:pushpin:Mobile:** React Native | Expo
 
-**:pushpin:Back-end:** Node Js | Nest Js | PHP | Laravel | Java | Spring Boot
+**:pushpin:Back-end:** Node Js | PHP | Laravel | Java | Spring Boot
 
 **:test_tube:Tests:** Jest
 
