@@ -23,7 +23,7 @@ I’m a **FullStack and Mobile Software Engineer**, I’m always eager to learn 
 - Swagger
 - Lombok | Spring Security
 
-**:mag_right:Studying:** Flutter | Sonar | Kotlin
+**:mag_right:Studying:** Flutter | Sonar | Kotlin | JUnit
   
   
   ## Connect with me: 
