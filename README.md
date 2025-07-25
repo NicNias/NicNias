@@ -10,7 +10,7 @@ I’m a **FullStack Software Developer**, I’m always eager to learn and grow i
 
 **:pushpin:Back-end:** Node Js | PHP | Laravel | Java | Spring Boot
 
-**:test_tube:Tests:** Jest
+**:test_tube:Tests:** Jest | Junit | Mockito
 
 **:hammer_and_wrench:Tools:** Docker
 
