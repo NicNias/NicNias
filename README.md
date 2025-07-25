@@ -23,7 +23,7 @@ I’m a **FullStack Software Developer**, I’m always eager to learn and grow i
 - Swagger
 - Lombok | Spring Security
 
-**:mag_right:Studying:** Flutter | Sonar | Kotlin | JUnit
+**:mag_right:Studying:** Flutter | Sonar | Kotlin
   
   
   ## Connect with me: 
