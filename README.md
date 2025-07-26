@@ -17,7 +17,7 @@ I’m a **FullStack Software Developer**, I’m always eager to learn and grow i
 **:paintbrush:UX/UI:** Figma 
 
 **:books:Libs:** 
-- BootStrap | Styled-components | Tailwind | Framer-motion | Native-base | NativeWind
+- BootStrap | Styled-components | Tailwind CSS | Framer-motion | Native-base | NativeWind
 - Express | Fastify
 - Sequelize | Mongoose | Prisma | TypeORM | Eloquent
 - Swagger
