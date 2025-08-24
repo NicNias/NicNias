@@ -4,7 +4,7 @@ I’m a **FullStack Software Developer**, I’m always eager to learn and grow i
 
 ## Techs:
 
-**:pushpin:Front-end:** JavaScript | TypeScript | React Js | Angular Js | Next Js
+**:pushpin:Front-end:** JavaScript | TypeScript | React Js | Next Js | Angular Js
 
 **:pushpin:Mobile:** React Native | Expo
 
