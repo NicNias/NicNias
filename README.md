@@ -1,6 +1,6 @@
 ## Hello world :wave:, I'm Ananias Nicolau:
 
-I’m a **FullStack Software Developer**, I’m always eager to learn and grow in my craft.
+I’m a **FullStack Software Developer Jr**, I’m always eager to learn and grow in my craft.
 
 ## Techs:
 
