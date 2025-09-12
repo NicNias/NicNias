@@ -8,7 +8,7 @@ I’m a **FullStack Software Developer Jr**, I’m always eager to learn and gro
 
 **:pushpin:Mobile:** React Native | Expo
 
-**:pushpin:Back-end:** Node Js | PHP | Laravel | Java | Spring Boot
+**:pushpin:Back-end:** Node Js | PHP | Laravel | Java | Spring Boot | PL/SQL
 
 **:test_tube:Tests:** Jest | Junit | Mockito
 
