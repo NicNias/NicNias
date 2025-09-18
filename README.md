@@ -19,7 +19,7 @@ I’m a **FullStack Software Developer Jr**, I’m always eager to learn and gro
 **:books:Libs:** 
 - BootStrap | Styled-components | Tailwind CSS | Framer-motion | Native-base | NativeWind
 - Express | Fastify
-- Sequelize | Mongoose | Prisma | TypeORM | Eloquent
+- Sequelize | Mongoose | Prisma | TypeORM | Eloquent | Liquibase
 - Swagger
 - Lombok | Spring Security
 
