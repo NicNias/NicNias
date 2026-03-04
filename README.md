@@ -22,10 +22,10 @@ Full-Stack Developer · Always learning, always building.
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Sonar](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
 **Currently studying**
 
-![Sonar](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4794EB?style=flat-square&logo=quarkus&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
