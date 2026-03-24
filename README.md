@@ -32,6 +32,8 @@ Full-Stack Developer · Always learning, always building.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Apache Camel](https://img.shields.io/badge/Apache%20Camel-D22128?style=flat-square&logo=apache&logoColor=white)
 
 ---
 
