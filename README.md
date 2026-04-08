@@ -25,6 +25,11 @@ Full-Stack Developer · Always learning, always building.
 ![Sonar](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![WinSCP](https://img.shields.io/badge/WinSCP-1A7ABA?style=flat-square&logo=files&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-007ACC?style=flat-square&logo=gnometerminal&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-2D2D2D?style=flat-square&logo=openssh&logoColor=white)
+![RDP](https://img.shields.io/badge/RDP-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 **Currently studying**
 
