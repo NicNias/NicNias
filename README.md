@@ -41,6 +41,7 @@ Full-Stack Developer · Always learning, always building.
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Apache Camel](https://img.shields.io/badge/Apache%20Camel-D22128?style=flat-square&logo=apache&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20CCP-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 
 ---
 
